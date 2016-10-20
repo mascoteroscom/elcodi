@@ -101,8 +101,7 @@ class Money implements MoneyInterface
     public function getConvertedAmount()
     {
         return $this
-            ->wrappedMoney
-            ->getConvertedAmount();
+            ->wrappedMoney->getAmount();
     }
 
     /**
