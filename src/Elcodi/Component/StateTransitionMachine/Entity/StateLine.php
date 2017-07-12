@@ -116,5 +116,5 @@ class StateLine implements StateLineInterface
     public function setChangeStateDate($changeStateDate)
     {
         $this->changeStateDate = $changeStateDate;
-    }    
+    }
 }

@@ -18,6 +18,10 @@ Elcodi\Component\StateTransitionMachine\Entity\StateLine:
             type: string
             length: 255
             nullable: true
+        changeStateDate:
+            column: change_state_line
+            type: datetime
+            nullable: true
         createdAt:
             column: created_at
             type: datetime
