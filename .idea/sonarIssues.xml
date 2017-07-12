@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/src/Elcodi/Bundle/StateTransitionMachineBundle/Resources/config/doctrine/StateLine.orm.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Elcodi/Component/StateTransitionMachine/Entity/Interfaces/StateLineInterface.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Elcodi/Component/StateTransitionMachine/Entity/StateLine.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vagrant/mascoteros/app/cache/dev/doctrine/orm/Proxies/__CG__ElcodiComponentStateTransitionMachineEntityStateLine.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vagrant/mascoteros/app/config/config_local.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vagrant/mascoteros/composer.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vagrant/mascoteros/src/Atresmediahf/BackOfficeBundle/Resources/views/Reports/shippingCost.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vagrant/mascoteros/src/Atresmediahf/MarketplaceBundle/CompilerPass/MappingCompilerPass.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vagrant/mascoteros/src/Atresmediahf/MarketplaceBundle/Entity/StateLineExt.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vagrant/mascoteros/src/Atresmediahf/MascoterosTemplatesBundle/Resources/public/less/responsive/md/megamenu.less">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vagrant/mascoteros/src/Atresmediahf/MascoterosTemplatesBundle/Resources/views/Common/_top-navigation-desktop.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vagrant/mascoteros/src/Atresmediahf/SeurBundle/Services/SeurConsultaExpediciones.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vagrant/mascoteros/vendor/elcodi/elcodi/src/Elcodi/Bundle/StateTransitionMachineBundle/Resources/config/doctrine/StateLine.orm.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vagrant/mascoteros/vendor/elcodi/elcodi/src/Elcodi/Component/StateTransitionMachine/Entity/Interfaces/StateLineInterface.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vagrant/mascoteros/vendor/elcodi/elcodi/src/Elcodi/Component/StateTransitionMachine/Entity/StateLine.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
