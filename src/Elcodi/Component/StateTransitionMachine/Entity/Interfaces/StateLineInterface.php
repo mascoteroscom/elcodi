@@ -38,4 +38,9 @@ interface StateLineInterface extends IdentifiableInterface, DateTimeInterface
      * @return string Description
      */
     public function getDescription();
+
+    /**
+     * @return \DateTime
+     */
+    public function getChangeStatusDate();
 }
