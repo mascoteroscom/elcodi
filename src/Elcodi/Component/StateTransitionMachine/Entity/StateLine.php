@@ -50,6 +50,11 @@ class StateLine implements StateLineInterface
     protected $stateLineStack;
 
     /**
+     * @var $changeStateDate \Datetime
+     */
+    protected $changeStateDate;
+
+    /**
      * Sets Name
      *
      * @param string $name Name
@@ -96,4 +101,20 @@ class StateLine implements StateLineInterface
     {
         return $this->description;
     }
+
+    /**
+     * @return \Datetime
+     */
+    public function getChangeStateDate()
+    {
+        return $this->changeStateDate;
+    }
+
+    /**
+     * @param \Datetime $changeStateDate
+     */
+    public function setChangeStateDate($changeStateDate)
+    {
+        $this->changeStateDate = $changeStateDate;
+    }    
 }
